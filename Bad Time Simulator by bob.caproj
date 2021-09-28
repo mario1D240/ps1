@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2project>
-    <name>Bad Time Simulator by bob</name>
+    <name>mr.man fight simulator by 2d24</name>
     <description>do you wanna have a bad time? &apos;cause if you visit this page... you are REALLY not going to like what happens next.</description>
     <version>0.5.1</version>
     <author>ボブ王国(KeikunGo_)</author>
@@ -8,7 +8,7 @@
     <author-website>http://</author-website>
     <app-id>com.jcw87.badtime</app-id>
     <unique-id>3pln6vqtdnxgu</unique-id>
-    <saved-with-version>27900</saved-with-version>
+    <saved-with-version>27500</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="AJAX" version="1">AJAX</plugin>
         <plugin author="Scirra" id="Arr" version="1">Array</plugin>
